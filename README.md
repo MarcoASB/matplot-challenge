@@ -1,22 +1,4 @@
-# Matplotlib Homework - The Power of Plots
-
-## Background
-
-What good is data without a good plot to tell the story?
-
-So, let's take what you've learned about Python Matplotlib and apply it to a real-world situation.
-
-### Before You Begin
-
-1. Create a new repository for this project called `matplotlib-challenge`. **Do not add this homework to an existing repository**.
-
-2. Clone the new repository to your computer.
-
-3. Inside your local git repository, create a directory for the assignment **Pymaceuticals**.
-
-4. Add your Jupyter notebook to this folder. This will be the main script to run for analysis.
-
-5. Push the above changes to GitHub or GitLab.
+# The Power of Plots
 
 ## Pymaceuticals Instructions
 
