@@ -1,6 +1,4 @@
-# The Power of Plots
-
-## Pymaceuticals Instructions
+# Pymaceuticals: The Power of Plots  :doctor:
 
 ![Laboratory](Images/Laboratory.jpg)
 
